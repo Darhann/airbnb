@@ -1,3 +1,5 @@
+package com.example.airbnb.repository;
+
 import com.example.airbnb.models.Booking;
 import org.springframework.data.jpa.repository.JpaRepository;
 

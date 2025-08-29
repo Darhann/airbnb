@@ -34,11 +34,3 @@ public class User {
     @Column(name = "created_at")
     private LocalDateTime createdAt = LocalDateTime.now();
 }
-
-// Создайте enum Role в отдельном файле Role.java
-// package com.example.booking.models;
-// public enum Role {
-//    ROLE_GUEST,
-//    ROLE_HOST,
-//    ROLE_ADMIN
-// }
